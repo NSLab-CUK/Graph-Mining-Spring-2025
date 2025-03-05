@@ -1,0 +1,14 @@
+James   Robert  neighbour
+James   Robert  friend
+Robert  John    coworker
+John    William coworker 
+John    William friend
+William Mary    coworker
+William Mary    family
+John    David   friend
+David   Michael family
+David   Linda   coworker 
+David   Linda   neighbour 
+Linda   Nancy   coworker
+David   Nancy   friend 
+David   Amy     coworker

@@ -1,0 +1,27 @@
+num,name,p_np,smiles
+1,Propanolol,1,[Cl].CC(C)NCC(O)COc1cccc2ccccc12
+2,Terbutylchlorambucil,1,C(=O)(OC(C)(C)C)CCCc1ccc(cc1)N(CCCl)CCCl
+3,Y-G 20,0,c1cccn2c1nc(c2)CCN
+4,cloxacillin,1,Cc1onc(c2ccccc2Cl)c1C(=O)N[C@H]3[C@H]4SC(C)(C)[C@@H](N4C3=O)C(O)=O
+5,cefoperazone,1,CCN1CCN(C(=O)N[C@@H](C(=O)N[C@H]2[C@H]3SCC(=C(N3C2=O)C(O)=O)CSc4nnnn4C)c5ccc(O)cc5)C(=O)C1=O
+6,rolitetracycline,1,CN(C)[C@H]1[C@@H]2C[C@H]3C(=C(O)c4c(O)cccc4[C@@]3(C)O)C(=O)[C@]2(O)C(=O)\C(=C(/O)NCN5CCCC5)C1=O
+7,ondansetron,1,Cn1c2CCC(Cn3ccnc3C)C(=O)c2c4ccccc14
+8,diltiazem,1,COc1ccc(cc1)[C@@H]2Sc3ccccc3N(CCN(C)C)C(=O)[C@@H]2OC(C)=O
+9,Amiloride,1,NC(N)=NC(=O)c1nc(Cl)c(N)nc1N
+10,M2L-663581,0,OCC(C)(O)c1onc(c2ncn3c2CN(C)C(c4c3cccc4Cl)=O)n1
+11,alovudine,1,CC1=CN([C@H]2C[C@H](F)[C@@H](CO)O2)C(=O)NC1=O
+12,methadone,1,CCC(=O)C(CC(C)N(C)C)(c1ccccc1)c2ccccc2
+13,alfentanil,1,CCN1N=NN(CCN2CCC(CC2)(COC)N(C(=O)CC)c3ccccc3)C1=O
+14,BRL53080,1,CN(C)C(=O)C(CCN1CCC(O)(CC1)c1ccc(Cl)cc1)(c1ccccc1)c1ccccc1
+15,hyoscyamine,1,CN1C2CCC1CC(C2)OC(=O)[C@H](CO)c3ccccc3
+16,glyburide,1,COc1ccc(Cl)cc1C(=O)NCCc2ccc(cc2)[S](=O)(=O)NC(=O)NC3CCCCC3
+17,lamotrigine,1,Nc1nnc(c(N)n1)c2cccc(Cl)c2Cl
+18,MIL-663581,0,OC(C)(C)c1onc(c2ncn3c2CN(C)C(c4c3cccc4Cl)=O)n1
+19,acetylsalicylate,0,CC(=O)Oc1ccccc1C(O)=O
+20,allopurinol,0,O=C1N=CN=C2NNC=C12
+21,Alprostadil,0,CCCCC[C@H](O)/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(O)=O
+22,aminophylline,0,CN1C(=O)N(C)c2nc[nH]c2C1=O.CN3C(=O)N(C)c4nc[nH]c4C3=O.NCCN
+23,Amiodarone,0,CCCCc1oc2ccccc2c1C(=O)c3cc(I)c(OCCN(CC)CC)c(I)c3
+24,amoxicillin,0,O.O.O.CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccc(O)cc3)C(=O)N2[C@H]1C(O)=O
+25,ampicillin,0,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccccc3)C(=O)N2[C@H]1C(O)=O
+26,androsan,0,C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C
